@@ -16,3 +16,4 @@ Tłuszcz|10,6g|1,6g|
 Węglowodany|56,3g|8,4g|
 Białko|6,3g|0,9g|
 
+![image.png](image.png)
