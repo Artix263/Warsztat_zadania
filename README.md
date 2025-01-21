@@ -29,3 +29,5 @@ print(suma)
 ~~~~
 
 Żeby przywitać się ze światem wystraczy napisać `print("Hello,World")`
+
+![image.png](image.png)
